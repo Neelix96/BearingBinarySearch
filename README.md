@@ -7,7 +7,7 @@ Packaged to executable via pyinstaller.
 
 ## Usage
 
-![GUI Screenshot](GUI_Screenshot.jpg|width=369)
+![GUI Screenshot](GUI_Screenshot.jpg)
 
 - HT - Horizontal Tolerance
 - VT - Vertical Tolerance
